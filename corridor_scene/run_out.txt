@@ -1,0 +1,14 @@
+[CHK] A: GLAD OK
+[CHK] B: corridorShader
+[CHK] C: wineShader
+[CHK] D: explodeShader
+[CHK] E: Textures done
+[CHK] F: plant loaded (3 meshes)
+[CHK] G: dog loaded (1 meshes)
+[CHK] G0a: before PLANT_SCALE
+[CHK] G0b: before plantMat1
+[CHK] G0c: before plantMat2
+[CHK] G1: plant matrices
+[CHK] G2: chairVAOs
+[CHK] G3: dogHouseVAOs
+[CHK] G4: vaseVAO

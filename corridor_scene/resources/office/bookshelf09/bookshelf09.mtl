@@ -1,0 +1,17 @@
+newmtl aiStandardSurface1SG
+illum 2
+Kd 0.38 0.22 0.10
+Ka 0.02 0.01 0.00
+Ks 0.12 0.10 0.08
+Ns 40.0
+map_Kd M_Books_Diffuse.png
+map_Ks M_Books_Specular.png
+
+newmtl aiStandardSurface2SG
+illum 2
+Kd 0.15 0.15 0.15
+Ka 0.01 0.01 0.01
+Ks 0.30 0.30 0.30
+Ns 60.0
+map_Kd M_Shelf_Black_Diffuse.png
+map_Ks M_Shelf_Black_Specular.png

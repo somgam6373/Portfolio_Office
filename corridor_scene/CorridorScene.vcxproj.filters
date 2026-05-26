@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\glad.c" />
+    <ClCompile Include="src\corridor_scene.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\learnopengl\shader.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader\corridor.vs" />
+    <None Include="shader\corridor.fs" />
+    <None Include="shader\depth.vs" />
+    <None Include="shader\depth.fs" />
+    <None Include="shader\emissive.vs" />
+    <None Include="shader\emissive.fs" />
+    <None Include="shader\fade.vs" />
+    <None Include="shader\fade.fs" />
+    <None Include="shader\particle.vs" />
+    <None Include="shader\particle.fs" />
+    <None Include="shader\pbr.vs" />
+    <None Include="shader\pbr.fs" />
+    <None Include="shader\wall_nm.vs" />
+    <None Include="shader\wall_nm.fs" />
+    <None Include="shader\bloom_quad.vs" />
+    <None Include="shader\bloom_bright.fs" />
+    <None Include="shader\bloom_blur.fs" />
+    <None Include="shader\bloom_final.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{892573e4-274f-4b78-bae8-dd4b85460a62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
