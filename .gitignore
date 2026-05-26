@@ -2,3 +2,7 @@
 .claude/
 *.user
 *.suo
+
+# Large files exceeding GitHub 100MB limit
+corridor_scene/resources/office/bookshelf09/bookshelf09.obj
+corridor_scene/resources/office/desk2/desk2.obj
